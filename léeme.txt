@@ -1,3 +1,4 @@
+[ESP]
 Nota: esta es la versión no oficial de la localización en español de BFDIA 5b.
 Nota 2: Esto es sólo para Ruffle Desktop
 
@@ -7,3 +8,14 @@ Recuerde que las menciones de muerte se suavizan.
 
 Traducido por: Johann2021
 Juego original de: Jacknjellify
+-------------------
+[ENG]
+Note: this is the unofficial version of the Spanish Localization of BFDIA 5b.
+Note 2: This is only for Ruffle Desktop
+
+(Beta Release - 11th February)
+
+Remember, that the death mentions are softened.
+
+Translated by: Johann2021
+Original game by: Jacknjellify
