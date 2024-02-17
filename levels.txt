@@ -1560,7 +1560,7 @@ wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww11111111wwwwwwwwww111111111wwwwwwwwwwwwwwwww
 53,60.50,03.00,06
 39,68.00,12.33,04 133333333322222222
 06
-03H Adiós chicos!!
+03H Adiós chicas!!
 00S Eh? Oh, adios.
 03H Siempre serás bienvenido aquí si quieres!
 00S Oye, Hielito. El cielo te parece más rojo?
