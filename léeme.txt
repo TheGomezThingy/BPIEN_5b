@@ -2,7 +2,7 @@
 Nota: esta es la versión no oficial de la localización en español de BFDIA 5b.
 Nota 2: Esto es sólo para Ruffle Desktop
 
-(Lanzamiento Beta - 11 de febrero)
+(Lanzamiento Beta 2 - 16 de febrero)
 
 Recuerde que las menciones de muerte se suavizan.
 
@@ -13,7 +13,7 @@ Juego original de: Jacknjellify
 Note: this is the unofficial version of the Spanish Localization of BFDIA 5b.
 Note 2: This is only for Ruffle Desktop
 
-(Beta Release - 11th February)
+(Beta Release 2 - 16th February)
 
 Remember, that the death mentions are softened.
 
