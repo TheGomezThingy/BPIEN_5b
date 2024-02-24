@@ -599,8 +599,8 @@ Di hola
 07
 01H Oh por dios, Libro!  Ya estoy, o sea, tan feliz de que estés aquí.
 00H Y yo también me alegro de verte, Cerillo! Pero todaviá no tengo ni idea de lo que está pasando, y tú?
-01S Pues, déjame pensar... oh sí, Lápiz metio La Van Listes en, o sea la boca de Hojita Mala
-01S Luego recordi haberme caído y quedar atrapado en esta caja. Déjame decirte, no me gusta estar atrapado en cajas, como. Oh por dios!
+01S Pues, déjame pensar... oh sí, Lápiz metio La Van Listes en, o sea la boca de Hojita Mala.
+01S Luego recordi haberme caído y quedar atrapada en esta caja. Déjame decirte, no me gusta estar atrapada en cajas, como. Oh por dios!
 00S Ahora estamos a salvo, eso creo. Salgamos de aquí.
 01H Okey dokey!
 99S Presiona 'Z' para cambiar el control del jugador.
