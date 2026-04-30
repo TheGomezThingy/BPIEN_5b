@@ -9,17 +9,33 @@
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="https://thegomezthingy.github.io/BPIEN_5b/">
 	<meta property="og:image" content="https://thegomezthingy.github.io/BPIEN_5b/visuals/bg/bg0002.png">
-	<meta property="og:description" content="An HTML5 port of Cary Huang's BFDIA 5b.">
+	<meta property="og:description" content="Localizado a español de su juego de Cary Huang: BFDIA 5b">
 	<meta name="theme-color" content="#c92b20">
 	<meta name="twitter:card" content="summary_large_image">
 	<link rel="shortcut icon" type="image/x-icon" href="./visuals/blocks/b0001.svg" />
 	<link rel="stylesheet" href="style.css" type="text/css"/>
-	<script type="text/javascript" src="5b.js"></script>
+	
+	<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 </head>
 <body style="overflow:hidden;">
 <div id="center">
-	<div id="hide-contenteditable"><canvas width="960" height="540" id="cnv" contenteditable="false"></canvas></div>
-	<p class="bottomtext">Localizado a Español de su juego de Cary Huang: <a href="https://bfdi.tv/5b/">BFDIA 5b (Ingles)</a>.</p>
+	
+	<div id="flash-container" style="width: 960px; height: 540px; margin: 0 auto;"></div>
+
+	<p class="bottomtext">Localizado a español de su juego de Cary Huang: <a href="https://bfdi.tv/5b/">BFDIA 5b (Inglés)</a>.</p>
 </div>
+
+<script>
+	window.RufflePlayer = window.RufflePlayer || {};
+	window.addEventListener("load", (event) => {
+		const ruffle = window.RufflePlayer.newest();
+		const player = ruffle.createPlayer();
+		const container = document.getElementById("flash-container");
+		container.appendChild(player);
+		
+		player.load("5b.swf"); 
+	});
+</script>
+
 </body>
 </html>
